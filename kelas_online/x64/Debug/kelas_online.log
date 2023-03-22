@@ -1,0 +1,4 @@
+﻿  kelas_online.cpp
+C:\pd2\kelas_online\kelas_online\kelas_online.cpp(9,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\pd2\kelas_online\kelas_online\kelas_online.cpp(13,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  kelas_online.vcxproj -> C:\pd2\kelas_online\x64\Debug\kelas_online.exe
